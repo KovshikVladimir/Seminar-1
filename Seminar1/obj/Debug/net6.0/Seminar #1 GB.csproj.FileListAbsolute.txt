@@ -1,0 +1,15 @@
+C:\Users\Swidi\Desktop\Seminar #1 GB\bin\Debug\net6.0\Seminar #1 GB.exe
+C:\Users\Swidi\Desktop\Seminar #1 GB\bin\Debug\net6.0\Seminar #1 GB.deps.json
+C:\Users\Swidi\Desktop\Seminar #1 GB\bin\Debug\net6.0\Seminar #1 GB.runtimeconfig.json
+C:\Users\Swidi\Desktop\Seminar #1 GB\bin\Debug\net6.0\Seminar #1 GB.dll
+C:\Users\Swidi\Desktop\Seminar #1 GB\bin\Debug\net6.0\Seminar #1 GB.pdb
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.csproj.AssemblyReference.cache
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.AssemblyInfoInputs.cache
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.AssemblyInfo.cs
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.csproj.CoreCompileInputs.cache
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.dll
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\refint\Seminar #1 GB.dll
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.pdb
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\Seminar #1 GB.genruntimeconfig.cache
+C:\Users\Swidi\Desktop\Seminar #1 GB\obj\Debug\net6.0\ref\Seminar #1 GB.dll
